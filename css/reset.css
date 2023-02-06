@@ -1,0 +1,27 @@
+/* Insu-Song reset -S */
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pathway+Gothic+One');
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap');
+
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, p,  
+img, strong, ol, ul, li, fieldset, form, label,figure 
+legend footer, header, section {
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+body { 
+	min-width: 1800px; 
+	background-color: rgb(255, 230, 153);
+	font-family: 'Do Hyeon','Black Han Sans', sans-serif;
+}
+a, em,strong { font: inherit; text-decoration: none; color: inherit;}
+ol, ul {
+    list-style: none;
+}
+li{list-style: none;}
+img { width:100%; }
+/* Insu-Song reset -E */
