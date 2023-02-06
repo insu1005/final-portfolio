@@ -14,14 +14,19 @@ legend footer, header, section {
 	vertical-align: baseline;
 }
 body { 
-	min-width: 1800px; 
+	min-width: 1280px;
 	background-color: rgb(255, 230, 153);
 	font-family: 'Do Hyeon','Black Han Sans', sans-serif;
 }
 a, em,strong { font: inherit; text-decoration: none; color: inherit;}
-ol, ul {
-    list-style: none;
-}
+ol, ul { list-style: none; }
 li{list-style: none;}
 img { width:100%; }
+header, main footer { width: 100%;}
+figure { 
+	margin-block-start: 0 ;
+    margin-block-end: 0 ;
+    margin-inline-start: 0 ;
+    margin-inline-end: 0 ;
+ }
 /* Insu-Song reset -E */
